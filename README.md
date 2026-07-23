@@ -42,7 +42,3 @@ These issues reduced the accuracy, consistency and reliability of the dataset fo
 -  Attention to details
 - Problem Solving 
 - Data Preparation
-
-##Before Cleaning 
-
-##After Cleaning 
